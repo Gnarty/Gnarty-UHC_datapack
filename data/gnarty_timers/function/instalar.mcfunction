@@ -1,0 +1,1 @@
+function gnarty_timers:install/scoreboard
