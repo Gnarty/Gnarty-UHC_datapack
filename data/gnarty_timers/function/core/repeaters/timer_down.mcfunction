@@ -1,3 +1,4 @@
+scoreboard players remove seconds_infinite Timers 1
 execute if score seconds Timers matches 0.. run scoreboard players remove seconds Timers 1
 
 execute if score seconds Timers matches ..-1 run execute if score minutes Timers matches 0.. run scoreboard players set seconds Timers 59

@@ -1,4 +1,6 @@
 scoreboard players add seconds Timers 1
+scoreboard players add seconds_infinite Timers 1
+
 execute if score seconds Timers matches 60.. run scoreboard players add minutes Timers 1
 execute if score seconds Timers matches 60.. run scoreboard players set seconds Timers 0
 
