@@ -11,7 +11,7 @@
     },
     "result": {
         "id": "minecraft:mace",
-        "name": "Mazo sangriento",
+        "custom_name": "Mazo sangriento",
         "count": 1
     }
 }
