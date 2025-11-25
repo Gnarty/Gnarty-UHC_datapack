@@ -1,0 +1,1 @@
+team join 1UHC @r[team=]
