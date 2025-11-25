@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "D",
+        "D"
+    ],
+    "key": {
+        "#": "minecraft:chorus_fruit",
+        "D": "minecraft:diamond"
+    },
+    "result": {
+        "id": "minecraft:mace",
+        "name": "Mazo sangriento",
+        "count": 1
+    }
+}

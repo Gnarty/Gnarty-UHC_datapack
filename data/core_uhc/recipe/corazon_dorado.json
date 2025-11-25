@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "gCg",
+        "ggg"
+    ],
+    "key": {
+        "g": "minecraft:gold_ingot",
+        "C": "minecraft:chorus_fruit"
+    },
+    "result": {
+        "id": "minecraft:enchanted_golden_apple",
+        "count": 1
+    }
+}
