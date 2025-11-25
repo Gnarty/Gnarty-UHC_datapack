@@ -1,3 +1,4 @@
+#10 mins
 execute if score seconds_infinite Timers matches 8400 run say evento uno registrado  a los 8400 segundos
 
 
