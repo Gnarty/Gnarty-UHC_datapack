@@ -1,0 +1,2 @@
+function gnarty_timers:core/gnarty_uhc_time
+scoreboard objectives setdisplay sidebar game

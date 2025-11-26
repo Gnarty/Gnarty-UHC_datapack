@@ -1,0 +1,2 @@
+playsound uhc_sounds:team_eliminated master @a ~ ~ ~ 1000 1 1 
+tellraw @a [{"text":"-------------------","color":"dark_blue"},"\n",{"text":"Un equipo fue eliminado","color":"white"},"\n",{"text":"-------------------","color":"dark_blue"}]

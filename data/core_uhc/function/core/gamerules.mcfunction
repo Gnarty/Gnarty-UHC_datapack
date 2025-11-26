@@ -1,4 +1,4 @@
 gamerule allow_entering_nether_using_portals false
-gamerule natural_health_regeneration true
+gamerule natural_health_regeneration false
 gamerule immediate_respawn true
 gamerule spectators_generate_chunks true

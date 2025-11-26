@@ -11,3 +11,5 @@ scoreboard players set start_timer_up Timers 0
 scoreboard players set start_timer_down Timers 0
 
 scoreboard players set seconds_infinite Timers 0
+
+scoreboard players set storage Timers 1

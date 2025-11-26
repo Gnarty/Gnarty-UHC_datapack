@@ -62,3 +62,18 @@ team modify 13UHC prefix [{"text":"[","color":"black"},{"text":"Team 13","color"
 team modify 14UHC prefix [{"text":"[","color":"black"},{"text":"Team 14","color":"dark_red"},{"text":"] ","color":"black"}]
 team modify 15UHC prefix [{"text":"[","color":"black"},{"text":"Team 15","color":"dark_green"},{"text":"] ","color":"black"}]
 
+team modify 1UHC collisionRule never
+team modify 2UHC collisionRule never
+team modify 3UHC collisionRule never
+team modify 4UHC collisionRule never
+team modify 5UHC collisionRule never
+team modify 6UHC collisionRule never
+team modify 7UHC collisionRule never
+team modify 8UHC collisionRule never
+team modify 9UHC collisionRule never
+team modify 10UHC collisionRule never
+team modify 11UHC collisionRule never
+team modify 12UHC collisionRule never
+team modify 13UHC collisionRule never
+team modify 14UHC collisionRule never
+team modify 15UHC collisionRule never

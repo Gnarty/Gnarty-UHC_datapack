@@ -1,0 +1,2 @@
+tellraw @a [{"text":"--------------------","color":"dark_blue"},"\n",{"text":"El nether esta habilitado","color":"white"},"\n",{"text":"--------------------","color":"dark_blue"}]
+gamerule allow_entering_nether_using_portals true
