@@ -1,0 +1,2 @@
+execute as @a run playsound uhc_sounds:pvp_on master @s ~ ~ ~ 10000 1
+tellraw @a [{"text":"--------------------","color":"dark_blue"},"\n",{"text":"El PVP se activo","color":"white"},"\n",{"text":"--------------------","color":"dark_blue"}]

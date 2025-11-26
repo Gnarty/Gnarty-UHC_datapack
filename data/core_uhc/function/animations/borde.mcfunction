@@ -1,0 +1,1 @@
+$scoreboard players display numberformat borde game fixed [{"text":"$(borde)]","color":"white"}]

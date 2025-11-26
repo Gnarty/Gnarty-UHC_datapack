@@ -14,3 +14,9 @@ effect give @a minecraft:saturation 10 100
 effect give @a minecraft:instant_health 10 100
 
 clear @a
+
+worldborder center 0 0
+worldborder set 5000
+worldborder warning distance 100
+
+gamemode survival @a

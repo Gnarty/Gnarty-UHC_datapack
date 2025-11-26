@@ -40,12 +40,13 @@ execute if score seconds_infinite Timers matches 9001 run title @a subtitle [{"t
 
 
 
-#10 mins
-execute if score seconds_infinite Timers matches 8400 run function core_uhc:timer_events/pve_event
+#30 mins
+execute if score seconds_infinite Timers matches 7200 run function core_uhc:timer_events/pve_event
 
 #1h
-execute if score seconds_infinite Timers matches 5400 run function core_uhc:timer_events/pve_event
+execute if score seconds_infinite Timers matches 5400 run function core_uhc:timer_events/pvp_on
 
+# 1:30
 execute if score seconds_infinite Timers matches 3600 run function core_uhc:timer_events/borde1
 
 execute if score scan_events Timers matches 1 run schedule function core_uhc:timer_events/scan_events 1s replace

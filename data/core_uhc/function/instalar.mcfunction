@@ -5,6 +5,7 @@ scoreboard players set scan_events Timers 1
 
 # eventos
 function core_uhc:core/gamerules
+function core_uhc:install/scoreboard
 
 
 function core_uhc:timer_events/scan_events
